@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/devleo/Downloads/LearnMetalCPP/learn-metal/01-primitive",
+      "program": "/Users/devleo/Downloads/LearnMetalCPP/learn-metal/01-primitive/build/Debug/outDebug"
+    }
+  ]
+}
